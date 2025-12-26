@@ -1,1 +1,1 @@
-"# zapisuvanje_semestar" 
+# zapisuvanje_semestar
